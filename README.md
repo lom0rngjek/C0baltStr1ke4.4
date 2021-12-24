@@ -86,5 +86,4 @@ OpenJDK 64-Bit Server VM (build 17+35-2724, mixed mode, sharing)
 
 ## ឯកសារយោង
 * https://raidforums.com/Thread-Cobalt-Strike-4-4-w-kits-5-working-download-locations
-* https://computingforgeeks.com/how-to-install-java-14-on-ubuntu-debian/
-* 
+* https://computingforgeeks.com/how-to-install-java-14-on-ubuntu-debian
