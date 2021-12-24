@@ -22,14 +22,18 @@ l0j@kali:~$ sudo ./start.sh
 ~~~
 ៥, បញ្ជូលលេខអាយភី ឈ្មោះ និង លេខសំងាត់ បន្ទាប់មកចុចភ្ជាប់ជាការស្រេច។
 
-img
+<p align="center">
+    <img src="https://github.com/lom0rngjek/C0baltStr1ke4.4/blob/main/images/cb-teamserver-connect.png" alt="Image"  />
+</p>
 
 ផ្ទៀងផ្ទាត់ហាស់ឯកសារ [Cobalt Strike 4.4](https://verify.cobaltstrike.com)
 
 ## បញ្ហាដែលនឹងកើតមាន
 ខ្ញុំបានតម្លើងវាដាក់នៅលើម៉ាស៊ីនកាលី (kali linux 2021.4) ហើយបានជួបនៅបញ្ហាជាមួយនិងជំនាន់របស់ Java ដែលបានតម្លើងមកស្រាប់ក្នុងម៉ាស៊ីន។
 
-img
+<p align="center">
+    <img src="https://github.com/lom0rngjek/C0baltStr1ke4.4/blob/main/images/java-error.jpg" alt="Image"  />
+</p>
 
 ដើម្បីដោះស្រាយគឺតម្រូវឲ្យខ្ញុំប្ដូរជំនាន់ java ទៅជំនាន់ខ្ពស់ជាងមុន ១៧+ ដែលជំនាន់ចាស់គឺ ១១។
 
