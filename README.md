@@ -1,4 +1,9 @@
 # ខូបលស្ត្រែគ៤.៤
+
+<p align="center">
+    <img src="https://github.com/lom0rngjek/C0baltStr1ke4.4/blob/main/images/cbs4.4.png" alt="Image"  />
+</p>
+
 ខូបលស្ត្រែគ៤.៤ - ឧបករណ៍ post exploitation ប្រើពាក្យបញ្ជានិងគ្រប់គ្រងពីចំងាយ។
 
 ## របៀបតម្លើង
