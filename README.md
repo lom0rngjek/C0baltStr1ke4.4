@@ -28,7 +28,7 @@ l0j@kali:~$ sudo ./start.sh
 ៥, បញ្ជូលលេខអាយភី ឈ្មោះ និង លេខសំងាត់ បន្ទាប់មកចុចភ្ជាប់ជាការស្រេច។
 
 <p align="center">
-    <img src="https://github.com/lom0rngjek/C0baltStr1ke4.4/blob/main/images/cb-teamserver-connect.png" alt="Image"  />
+    <img src="https://github.com/lom0rngjek/C0baltStr1ke4.4/blob/main/images/cbs-teamserver-connect.png" alt="Image"  />
 </p>
 
 ផ្ទៀងផ្ទាត់លេខហាស់នៃឯកសារ [Cobalt Strike 4.4](https://verify.cobaltstrike.com)
